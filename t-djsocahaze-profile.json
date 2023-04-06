@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T07:16:29Z",
+  "IdClaims": [
+    {
+      "Claim": "t:djsocahaze"
+    },
+    {
+      "Claim": "mdon:@djsocahaze@mastodon.social"
+    },
+    {
+      "Claim": "gh:greavesge"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "ecd8e203d3df04e8a35ad147",
+    "Timestamp": "2023-04-06T07:47:15Z",
+    "Signature": "337a97267cef48b7c8f687e97ed1504ea4202325582548acb438d020482ca69fcdfcb56e7be52e87d6af36708ebadbe8d66cbd427444fe6996cd5133cb77bf22e8721a23b205c57cd568611e66fa86ada167a4965472042d20704143b0b6f5910735360475eecd1c3737852b5e96182e8cde335565a322195e8cb1abf09510efaa4af74375fce1f6d666d6d78411083f92ad0e15f1220052479b033a56aea021ff7f87dd5f0f65aa44fe8409d58ed4838d38ed9cb2d76a536625ee47f2c66c49bd2a67207cd41d63330a5ac3d47712ce2bd98afe5d5f9b88a01730e306e28555351ca9083d6c6750683d24c0b1f9b5d8e68bdf9cd96e2bf0c3889e359dbda7ad"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "3549bd05175240c2f0c4bdb36588a9765b90349fc2087867014316d702b9cd10",
+  "ContentToHash": "v1|gh:greavesge,mdon:@djsocahaze@mastodon.social,t:djsocahaze|2023-04-06T07:16:29Z"
+}
